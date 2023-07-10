@@ -1,4 +1,3 @@
-![avg_fitness](https://github.com/NovaBro/NEAT_StockTrading/assets/57100555/41d776d2-7eeb-4031-a8cd-577acf1115b0)# NEAT_StockTrading
 This project was an attempt at using the Neural Evolutions of Augmented Topologies (NEAT) algorithm to develop a neural network (NN) that could trade stocks better than the "buy and hold" strategy.
 
 There is alot of things going on and potential problems in this project which I will do my best to explain.
